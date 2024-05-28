@@ -11,7 +11,19 @@ Interactive To-Do App built completely in python via the Streamlit library.
 - Checkbox Integration
 - Remove Option for each Task
 
+## HOW TO USE
+- Install streamlit via the following command:
+  ```
+  pip3 install streamlit
+  ```
+- In terminal, run the following command:
+  ```
+  streamlit run app.py
+  ```
+
 ## IMPROVEMENTS
 - Animated removal of Tasks
 - Edit-Task Integration
 - Hover-Over Integration
+
+
