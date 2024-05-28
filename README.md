@@ -1,2 +1,17 @@
 # To-Do-App-Streamlit
-First Interactive Web Application built in Python using Streamlit.
+Interactive To-Do App built completely in python via the Streamlit library.
+
+<br>
+<img alt="examplepagetodoapp" src="https://github.com/sav-1305/To-Do-App-Streamlit/assets/115809311/10e2c1a7-273a-4a24-a7d3-a33351e3174d">
+<br>
+
+## FUNCTIONALITIES
+- Add tasks
+- Display Tasks
+- Checkbox Integration
+- Remove Option for each Task
+
+## IMPROVEMENTS
+- Animated removal of Tasks
+- Edit-Task Integration
+- Hover-Over Integration
